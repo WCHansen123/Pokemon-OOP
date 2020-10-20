@@ -1,0 +1,69 @@
+body{
+    margin-top:20px;
+    background-color: #353C51;
+}
+
+.sprite{
+    background-color: aliceblue;
+}
+
+.list-frame{
+    margin-bottom: 10%;
+}
+
+.sprite-list{
+    width: 70%;
+    padding-right: 20px;
+}
+
+.attack{
+    width: 250px;
+    height: 50px;
+    margin: 5px;
+}
+
+.pokemonName{
+    margin-left: 30px;
+}
+
+.normal{
+    background-color: #A8A878;
+}
+
+.grass{
+    background-color: #78C850;
+}
+
+.fairy{
+    background-color: #EE99AC;
+}
+
+.flying{
+    background-color: #A890F0;
+}
+
+.water{
+    background-color: #6890F0;
+}
+
+.steel{
+    background-color: #B8B8D0;
+}
+
+.ghost{
+    background-color: #705898;
+}
+
+.dark{
+    background-color: #705848;
+}
+
+.electric{
+    background-color: #F8D030;
+}
+
+.top-bar{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
